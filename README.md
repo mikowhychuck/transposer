@@ -1,2 +1,2 @@
 # transposer
-Very simple python code, transposing chords by a given number of halftones. It may be actually useful for beginner guitarists
+Very simple python code, transposing chords by a given number of halftones. It might actually be useful for beginner guitarists
